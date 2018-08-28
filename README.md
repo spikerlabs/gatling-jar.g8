@@ -3,7 +3,7 @@
 ### A [Giter8][g8] template for [Gatling][gatling] performance test suite
 
 ```
-sbt new spikerlabs/gatling.g8
+sbt new spikerlabs/gatling-jar.g8
 ```
 
 For more information on suite, have a look at example [applied template][example].
